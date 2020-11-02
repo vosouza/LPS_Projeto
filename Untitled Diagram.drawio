@@ -1,18 +1,26 @@
-<mxfile host="app.diagrams.net" modified="2020-11-02T00:16:16.320Z" agent="5.0 (X11)" etag="73jPnJ9kM8VRL5BGeYcy" version="13.8.8" type="github">
+<mxfile host="app.diagrams.net" modified="2020-11-02T00:16:56.268Z" agent="5.0 (X11)" etag="4TqmwjDjsinSPs0gieno" version="13.8.8" type="github" pages="2">
   <diagram id="FdHQBJaeoCMGci68xZTH" name="Page-1">
-    <mxGraphModel dx="801" dy="487" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+    <mxGraphModel dx="1035" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
       <root>
         <mxCell id="0" />
         <mxCell id="1" parent="0" />
-        <mxCell id="GBVwDQDWwXciFvwQ0ld1-1" value="Jogando" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;" vertex="1" parent="1">
+        <mxCell id="GBVwDQDWwXciFvwQ0ld1-1" value="Jogando" style="swimlane;fontStyle=4;align=center;verticalAlign=top;childLayout=stackLayout;horizontal=1;startSize=60;horizontalStack=0;resizeParent=1;resizeParentMax=0;resizeLast=0;collapsible=0;marginBottom=0;html=1;rounded=1;absoluteArcSize=1;arcSize=50;" parent="1" vertex="1">
           <mxGeometry x="160" y="120" width="140" height="110" as="geometry" />
         </mxCell>
-        <mxCell id="GBVwDQDWwXciFvwQ0ld1-2" value="" style="fillColor=none;strokeColor=none;container=1;collapsible=0;" vertex="1" parent="GBVwDQDWwXciFvwQ0ld1-1">
+        <mxCell id="GBVwDQDWwXciFvwQ0ld1-2" value="" style="fillColor=none;strokeColor=none;container=1;collapsible=0;" parent="GBVwDQDWwXciFvwQ0ld1-1" vertex="1">
           <mxGeometry y="60" width="140" height="50" as="geometry" />
         </mxCell>
-        <mxCell id="GBVwDQDWwXciFvwQ0ld1-3" value="State2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;" vertex="1" parent="GBVwDQDWwXciFvwQ0ld1-2">
+        <mxCell id="GBVwDQDWwXciFvwQ0ld1-3" value="State2" style="html=1;align=center;verticalAlign=middle;rounded=1;absoluteArcSize=1;arcSize=10;" parent="GBVwDQDWwXciFvwQ0ld1-2" vertex="1">
           <mxGeometry x="30" y="10" width="80" height="30" as="geometry" />
         </mxCell>
+      </root>
+    </mxGraphModel>
+  </diagram>
+  <diagram id="dnfbKCSGOnCngcE_kahK" name="Page-2">
+    <mxGraphModel dx="1035" dy="590" grid="1" gridSize="10" guides="1" tooltips="1" connect="1" arrows="1" fold="1" page="1" pageScale="1" pageWidth="850" pageHeight="1100" math="0" shadow="0">
+      <root>
+        <mxCell id="swVuszVN-sHBQ0xZqsWk-0" />
+        <mxCell id="swVuszVN-sHBQ0xZqsWk-1" parent="swVuszVN-sHBQ0xZqsWk-0" />
       </root>
     </mxGraphModel>
   </diagram>
