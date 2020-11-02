@@ -55,8 +55,9 @@ Wellington do pisca {(11,7)}
 
 Jorginho queixo de para choque {(8,11)}
 
-Para movimentar-se o jogador deve rolar os dados que podem assumir os valores de 2..12, após ser sorteado ele deverá indicar o quadrado adjacente que deseja ocupar até que tenha andado igual a tantas vezes quanto o número sorteado.
+Para movimentar-se o jogador deve rolar os dados que podem assumir os valores de 2..12, após ser sorteado ele deverá indicar o quadrado adjacente que deseja ocupar até que tenha andado o número de vezes igual sorteado.
 
+### Cartas
 
 
 ## Análise (Problema)
