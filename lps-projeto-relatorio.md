@@ -7,7 +7,7 @@ Entende-se por processo, como uma forma sistemática de se produzir algo. No cas
 ### Tabuleiro
 Dado 2~12
 
-Tabela representa o tabuleiro será 12x12, . Os quadros podem estar ocupados (indicado pela letra do nome do personagem) ou vazio (indicado com a letra 'x').
+Tabela representa o tabuleiro será 12x12, . Os quadros podem estar ocupados (indicado pela letra do nome do personagem) ou vazio (indicado com a letra 'x'). Cada célula deve conter apenas 1 jogador por vez.
 
 Determinados conjuntos de pares ordenados serão nomeados como "Bairro", segue os conjuntos de pares com seus denominados títulos:
 
@@ -57,8 +57,13 @@ Jorginho queixo de para choque {(8,11)}
 
 Para movimentar-se o jogador deve rolar os dados que podem assumir os valores de 2..12, após ser sorteado ele deverá indicar o quadrado adjacente que deseja ocupar até que tenha andado o número de vezes igual sorteado.
 
-### Cartas
 
+### Cartas
+Existem no total 18 cartas, 6 representando os personagens, 6 representando veículos e 6 representando os bairros. Essas serão sorteadas entre a quantidade de jogadores.
+### Palpite
+Para realizar um palpite o jogador devera estar em uma celula de um bairro, devera selecionar 1 personagem, 1 veiculo e 1 bairro, o sistema então indicara quais ṕalpites estão errados para cada categoria.(SE ACERTAR GANHA?)
+### Acusar
+Para realizar uma acusação o jogador devera estar em uma celula de um bairro, devera selecionar 1 personagem, 1 veiculo e 1 bairro, o sistema então indicara quais ṕalpites estão errados para cada categoria, caso alguma das opções esteja errada o jogador automaticamente perdera o jogo.
 
 ## Análise (Problema)
 
