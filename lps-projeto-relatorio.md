@@ -4,8 +4,8 @@ Entende-se por processo, como uma forma sistemática de se produzir algo. No cas
 
 ## Preocupações
 
-Tabela representa o tabuleiro será 12x12, 
-
+Tabela representa o tabuleiro será 12x12. Os quadros podem estar ocupados (indicado pela letra do nome do personagem) ou
+ vazio (indicado com a letra 'x')
 |      | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   | 12   |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
 | 1    |      |      |      |      |      |      |      |      |      |      |      |      |
