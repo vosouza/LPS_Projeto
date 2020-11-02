@@ -7,29 +7,29 @@ Entende-se por processo, como uma forma sistemática de se produzir algo. No cas
 Tabela representa o tabuleiro será 12x12, . Os quadros podem estar ocupados (indicado pela letra do nome do personagem) ou vazio (indicado com a letra 'x').
 
 Determinados conjuntos de pares ordenados serão nomeados como "Bairro", segue os conjuntos de pares com seus denominados títulos:
-Brasilândia
-Osasco
-Taboão
-Santana
-Sé
-Cotia
+Brasilândia {(0,0)(0,1)(0,2)(1,0)(1,1)(1,2)(2,0)(2,1)(2,2)}
+Osasco  {(0,9)(0,10)(0,11)(1,9)(1,10)(1,11)(2,9)(2,10)(2,11)}
+Taboão  {(9,9)(9,10)(9,11)(10,9)(10,10)(10,11)(11,9)(11,10)(11,11)}
+Santana  {(4,4)(4,5)(4,6)(5,4)(5,5)(5,6)(6,4)(6,5)(6,6)}
+Sé  {(8,0)(8,1)(9,0)(9,1)(10,0)(10,1)(11,0)(11,1)}
+Cotia  {(9,3)(9,4)(9,5)(10,3)(10,4)(10,5)(11,3)(11,4)(11,5)}
 
 
 
 |      | 0    | 1    | 2    | 3    | 4    | 5    | 6    | 7    | 8    | 9    | 10   | 11   |
 | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- | ---- |
-| 0    |   B   |   B   |      |      |      |      |      |      |      |   Se   |   Se   |   Se   |
-| 1    |   B   |   B   |      |      |      |      |      |      |      |    Se  |    Se  |   Se   |
-| 2    |   B   |   B   |      |      |      |      |      |      |      |      |      |      |
+| 0    |   B   |   B   |   B   |      |      |      |      |      |   Se   |   Se   |   Se   |   Se   |
+| 1    |   B   |   B   |   B   |      |      |      |      |      |   Se   |    Se  |    Se  |   Se   |
+| 2    |   B   |   B   |   B   |      |      |      |      |      |      |      |      |      |
 | 3    |      |      |      |      |      |      |      |      |      |   C   |   C   |   C   |
 | 4    |      |      |      |      |   Sa   |   Sa   |   Sa   |      |    |    C  |    C  |   C   |
 | 5    |      |      |      |      |   Sa   |   Sa   |   Sa   |      |      |   C   |   C   |  C    |
 | 6    |      |      |      |      |   Sa   |   Sa   |   Sa   |      |      |      |      |      |
 | 7    |      |      |      |      |      |      |      |      |      |      |      |      |
 | 8    |      |      |      |      |      |      |      |      |      |      |      |      |
-| 9    |   O   |   O   |      |      |      |      |      |      |      |   T   |   T   |   T   |
-| 10   |   O   |   O   |      |      |      |      |      |      |      |   T   |   T   |   T   |
-| 11   |   O   |   O   |      |      |      |      |      |      |      |   T   |   T   |   T   |
+| 9    |   O   |   O   |   O   |      |      |      |      |      |      |   T   |   T   |   T   |
+| 10   |   O   |   O   |    O  |      |      |      |      |      |      |   T   |   T   |   T   |
+| 11   |   O   |   O   |     O |      |      |      |      |      |      |   T   |   T   |   T   |
 
 
 
